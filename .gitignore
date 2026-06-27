@@ -1,0 +1,10 @@
+# Eseguibile compilato
+todo
+
+# File oggetto e binari
+*.o
+*.out
+*.exe
+
+# Dati generati a runtime
+attivita.txt
